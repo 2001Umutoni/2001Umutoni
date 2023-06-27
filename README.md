@@ -1,7 +1,8 @@
 hi
-- 👋 Hi, I’m @2001Umutoni
-- 👀 I’m interested in backend 
-- 🌱 I’m currently learning frontend.
+- 👋 Hi, I’m a young  African lady who is interested in software engineering
+- especially Back end languages.
+- 👀 I’m interested in backend & frontend
+- 🌱 I’m currently learning HTML &CSS.
 - 💞️ I’m looking to collaborate on frontend .
 - 📫 How to reach me via email angearianeumutoni@gmail.com
 
