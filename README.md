@@ -2,7 +2,7 @@ hi
 - 👋 Hi, I’m a young  African lady who is interested in software engineering
   
 - 👀 I’m interested in backend & frontend
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning Cloud Computing & Devops.
 - 💞️ I’m looking to collaborate on frontend .
 - 📫 How to reach me via email angearianeumutoni@gmail.com
 
